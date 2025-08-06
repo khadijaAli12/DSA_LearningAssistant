@@ -1,12 +1,34 @@
-# React + Vite
+# 🧠 DSA Learning Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live: [dsa-learning-assistant.vercel.app](https://dsa-learning-assistant.vercel.app)
 
-Currently, two official plugins are available:
+A smart, interactive platform built to simplify and track your **DSA (Data Structures & Algorithms)** preparation journey. Designed with **React + Vite + Bootstrap**, this app is your all-in-one **DSA companion** — helping you learn, revise, and monitor progress with ease.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📚 **Topic Organizer**: Add DSA topics, write notes, and store explanations.
+- ✅ **Progress Tracker**: Visualize your progress (Not Started → In Progress → Completed).
+- 🎙️ **Voice AI Assistant** *(coming soon)*: Ask DSA questions and get answers like a teacher.
+- 📊 **Dashboard View**: Monitor what’s done and what’s pending.
+- 🔔 **Smart Suggestions**: Get personalized study paths *(future scope)*.
+- 💡 **Modern UI**: Clean Bootstrap-based design with Lucide icons.
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool           | Purpose                            |
+|----------------|------------------------------------|
+| React          | Frontend UI Framework              |
+| Vite           | Fast React App Bundler             |
+| Bootstrap 5    | Responsive UI Components           |
+| Lucide-react   | Lightweight SVG Icons              |
+| React Router   | Multi-page Routing                 |
+| OpenAI API     | (Planned) Voice/Chat AI Assistant  |
+
+---
+
+## 📁 Folder Structure (Simplified)
+
