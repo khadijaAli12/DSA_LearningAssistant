@@ -30,5 +30,3 @@ A smart, interactive platform built to simplify and track your **DSA (Data Struc
 
 ---
 
-## 📁 Folder Structure (Simplified)
-
